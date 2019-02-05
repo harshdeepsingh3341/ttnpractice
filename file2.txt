@@ -1,2 +1,5 @@
 This is file2.txt
 
+This is an updated line in newBranch branch of the repo.
+
+
